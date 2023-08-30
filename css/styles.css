@@ -17,8 +17,6 @@ body {
   font-family: Raleway, sans-serif;
 }
 .page-navigation {
-  width: Hug 261px;
-  gap: 40px;
 }
 .logotype {
   font-family: Raleway, sans-serif;
@@ -102,7 +100,6 @@ body {
   color: #434455;
 }
 .hero {
-  width: 1440px;
   background-color: #2e2f42;
 }
 .hero-image-title {
@@ -116,8 +113,6 @@ body {
   background: #2e2f42;
 }
 .button {
-  width: 169px;
-  padding: 16px 32px 16px 32px;
   background-color: #4d5ae5;
   font-weight: 500;
   font-size: 16px;
@@ -163,11 +158,9 @@ body {
   color: #2e2f42;
 }
 .people {
-  width: 264px;
   background: #ffffff;
 }
 .image-people {
-  width: 264px;
 }
 
 .name {
@@ -204,7 +197,6 @@ body {
   font-weight: 500px;
 }
 .img-portfolio {
-  width: 360px;
 }
 .title-card {
   font-weight: 500;
